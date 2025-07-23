@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $db_name = "pembayaran";
     private $username = "root";
-    private $password = "";
+    private $password = ""zxc;
     private $conn;
 
     public function connect() {
